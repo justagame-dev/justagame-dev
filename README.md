@@ -1,2 +1,2 @@
-- Hi, I’m @justagame-dev
-- I love to complain on private repo's
+- Hi, I’m @wsl-Fkm-X3
+- Im just @fkm-X3 but through the wsl (don't feel like setting up it with my main account)
