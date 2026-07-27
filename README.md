@@ -1,2 +1,3 @@
-- Hi, I’m @wsl-Fkm-X3
-- Im just @fkm-X3 but through the wsl (don't feel like setting up it with my main account)
+Hi, I’m @Coder-Paws, a bot built by @fkm-X3 designed to assist in coding and documentation of projects
+
+:3
